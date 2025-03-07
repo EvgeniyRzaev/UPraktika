@@ -1,0 +1,515 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\viewmodels\\organizatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:viewmodels\\organizatorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\viewmodels\\eventsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:viewmodels\\eventsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\models\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:models\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\views\\organizatorview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:views\\organizatorview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:views\\mainview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\models\\moderator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:models\\moderator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\views\\mainview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:views\\mainview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\models\\jurytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:models\\jurytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\views\\eventsview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:views\\eventsview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\models\\actionjury.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:models\\actionjury.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\views\\loginview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:views\\loginview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\views\\loginview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:views\\loginview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\views\\eventsview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:views\\eventsview.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\models\\winner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:models\\winner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\models\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:models\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|c:\\users\\kkrok\\onedrive\\desktop\\eventapp\\models\\captchagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B481E8-0A5B-581F-681D-5E239AC1B6C3}|EventApp.csproj|solutionrelative:models\\captchagenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindowViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\ViewModels\\MainWindowViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:01:10.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:01:00.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:01:14.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\ViewModels\\EventsViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EventsViewModel.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\ViewModels\\EventsViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EventsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:51:43.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainView.axaml",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\MainView.axaml",
+              "RelativeDocumentMoniker": "Views\\MainView.axaml",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\MainView.axaml",
+              "RelativeToolTip": "Views\\MainView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T20:02:05.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrganizatorView.axaml",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\OrganizatorView.axaml",
+              "RelativeDocumentMoniker": "Views\\OrganizatorView.axaml",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\OrganizatorView.axaml",
+              "RelativeToolTip": "Views\\OrganizatorView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T20:34:11.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Converter.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Converter.cs",
+              "RelativeDocumentMoniker": "Models\\Converter.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Converter.cs",
+              "RelativeToolTip": "Models\\Converter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:06:22.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Models\\Event.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Event.cs",
+              "RelativeToolTip": "Models\\Event.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:03:26.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAADwvwkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:52:48.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrganizatorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\ViewModels\\OrganizatorViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\OrganizatorViewModel.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\ViewModels\\OrganizatorViewModel.cs",
+              "RelativeToolTip": "ViewModels\\OrganizatorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:01:15.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "Views\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T20:01:58.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\App.axaml",
+              "RelativeDocumentMoniker": "App.axaml",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\App.axaml",
+              "RelativeToolTip": "App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T21:54:04.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\App.axaml.cs",
+              "RelativeDocumentMoniker": "App.axaml.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\App.axaml.cs",
+              "RelativeToolTip": "App.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:54:10.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-03-06T21:54:14.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Models\\City.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\City.cs",
+              "RelativeToolTip": "Models\\City.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:54:14.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "Models\\Country.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Country.cs",
+              "RelativeToolTip": "Models\\Country.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:54:15.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EventsView.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\EventsView.axaml.cs",
+              "RelativeDocumentMoniker": "Views\\EventsView.axaml.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\EventsView.axaml.cs",
+              "RelativeToolTip": "Views\\EventsView.axaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:54:16.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "Models\\Gender.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Gender.cs",
+              "RelativeToolTip": "Models\\Gender.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:54:17.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Jurytable.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Jurytable.cs",
+              "RelativeDocumentMoniker": "Models\\Jurytable.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Jurytable.cs",
+              "RelativeToolTip": "Models\\Jurytable.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:54:18.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainView.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\MainView.axaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainView.axaml.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\MainView.axaml.cs",
+              "RelativeToolTip": "Views\\MainView.axaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:54:18.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:54:19.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Moderator.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Moderator.cs",
+              "RelativeDocumentMoniker": "Models\\Moderator.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Moderator.cs",
+              "RelativeToolTip": "Models\\Moderator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:54:19.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Action.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Action.cs",
+              "RelativeDocumentMoniker": "Models\\Action.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Action.cs",
+              "RelativeToolTip": "Models\\Action.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:51:56.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Activity.cs",
+              "RelativeDocumentMoniker": "Models\\Activity.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Activity.cs",
+              "RelativeToolTip": "Models\\Activity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:54:03.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ActionJury.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\ActionJury.cs",
+              "RelativeDocumentMoniker": "Models\\ActionJury.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\ActionJury.cs",
+              "RelativeToolTip": "Models\\ActionJury.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:54:02.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginView.axaml",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\LoginView.axaml",
+              "RelativeDocumentMoniker": "Views\\LoginView.axaml",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\LoginView.axaml",
+              "RelativeToolTip": "Views\\LoginView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T20:28:04.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginView.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\LoginView.axaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginView.axaml.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\LoginView.axaml.cs",
+              "RelativeToolTip": "Views\\LoginView.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:13:42.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T20:03:54.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EventsView.axaml",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\EventsView.axaml",
+              "RelativeDocumentMoniker": "Views\\EventsView.axaml",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Views\\EventsView.axaml",
+              "RelativeToolTip": "Views\\EventsView.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-06T20:00:40.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Winner.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Winner.cs",
+              "RelativeDocumentMoniker": "Models\\Winner.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\Winner.cs",
+              "RelativeToolTip": "Models\\Winner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:51:45.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CaptchaGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\CaptchaGenerator.cs",
+              "RelativeDocumentMoniker": "Models\\CaptchaGenerator.cs",
+              "ToolTip": "C:\\Users\\kkrok\\OneDrive\\Desktop\\EventApp\\Models\\CaptchaGenerator.cs",
+              "RelativeToolTip": "Models\\CaptchaGenerator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T21:07:50.442Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="EventApp.Views.LoginView"
+             xmlns:vm="using:EventApp.ViewModels"
+             xmlns:v="using:EventApp.Views"
+             x:DataType="vm:LoginViewModel">
+
+	<Border Background="#1E1E2E" Padding="20" CornerRadius="10">
+		<StackPanel VerticalAlignment="Center" Spacing="10">
+			<TextBlock Text="Авторизация" FontSize="26" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center" Margin="10"/>
+
+			<Border Background="#282C34" Padding="20" CornerRadius="10" HorizontalAlignment="Center">
+				<StackPanel Spacing="10">
+					<TextBox Name="IdNumberInput" Text="{Binding IdUser}" Watermark="Введите Ваш ID" Width="200"
+                             Background="#3C4048" Foreground="White" BorderThickness="1" BorderBrush="#61AFEF"/>
+
+					<TextBox Name="PasswordInput" Text="{Binding Password1}" Watermark="Введите пароль" PasswordChar="*" Width="200"
+                             Background="#3C4048" Foreground="White" BorderThickness="1" BorderBrush="#61AFEF"/>
+
+					<StackPanel HorizontalAlignment="Center" Spacing="5">
+						<Image Source="{Binding CaptchaImage}" Width="120" Height="50" Stretch="Uniform"/>
+						<Button Content="Обновить капчу" Command="{Binding RefreshCaptchaCommand}" Background="#61AFEF" Foreground="White"/>
+
+						<TextBox Text="{Binding Captcha}" Width="150" Background="#3C4048" Foreground="White" BorderBrush="#61AFEF" BorderThickness="1"/>
+						<TextBlock Text="CAPTCHA" Foreground="LightGray" FontSize="14" FontStyle="Italic" HorizontalAlignment="Center"/>
+					</StackPanel>
+
+					<Button Command="{Binding LoginCommand}" Width="100" HorizontalAlignment="Center"
+                            Background="#61AFEF" Foreground="White" FontSize="16" Padding="8,4" CornerRadius="8">
+						<TextBlock Text="Вход" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+					</Button>
+
+					<!-- Сообщение об ошибке -->
+					<TextBlock Text="{Binding ErrorMessage}" Foreground="Red" FontSize="14" FontStyle="Italic" HorizontalAlignment="Center" Margin="10"/>
+				</StackPanel>
+			</Border>
+		</StackPanel>
+	</Border>
+</UserControl>

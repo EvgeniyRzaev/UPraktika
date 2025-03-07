@@ -1,0 +1,57 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+             x:Class="EventApp.Views.MainView"
+             xmlns:vm="using:EventApp.ViewModels"
+             xmlns:v="using:EventApp.Views"
+             x:DataType="vm:MainViewModel"
+			 >
+
+	<Border Background="#1E1E2E" Padding="20">
+		<StackPanel Spacing="10">
+			<TextBlock Text="Главное окно" FontSize="26" FontWeight="Bold" Foreground="White" HorizontalAlignment="Center"/>
+
+			<Grid>
+				<Grid.ColumnDefinitions>
+					<ColumnDefinition Width="300"/>
+					<ColumnDefinition Width="*"/>
+				</Grid.ColumnDefinitions>
+
+				<!-- Левая панель -->
+				<Border Grid.Column="0" Background="#282C34" Padding="15" CornerRadius="10">
+					<StackPanel>
+						<TextBlock Text="Желаете авторизоваться?" FontSize="20" Foreground="LightGray"/>
+						<Button Content="Вход" Command="{Binding NavigateToLogin}" Margin="10"
+                                HorizontalAlignment="Center" Background="#61AFEF" Foreground="White"
+                                FontSize="16" Padding="8,4" CornerRadius="8"/>
+						<DatePicker Background="#3C4048" Foreground="White" BorderThickness="0" Padding="5"/>
+					</StackPanel>
+				</Border>
+
+				<!-- Правая панель с событиями -->
+				<Border Grid.Column="1" Padding="10">
+					<ListBox ItemsSource="{Binding Events}" Name="EventsList" Width="600" Height="500"
+                             Background="#282C34" BorderBrush="#3C4048" BorderThickness="1" CornerRadius="10">
+						<ListBox.ItemTemplate>
+							<DataTemplate>
+								<Border BorderBrush="#61AFEF" BorderThickness="1" CornerRadius="8" Padding="5" Margin="5" Background="#3C4048">
+									<StackPanel Orientation="Horizontal" Spacing="10">
+										<Image Source="{Binding Image}" Width="100" Height="100" Stretch="UniformToFill"/>
+										<StackPanel>
+											<TextBlock Text="{Binding EventTitle}" FontWeight="Bold" Foreground="White" FontSize="16"/>
+											<TextBlock Text="{Binding StartDate, StringFormat=Дата начала: {0}}" Foreground="LightGray" FontStyle="Italic"/>
+											<TextBlock Text="{Binding Days, StringFormat=Количество дней: {0}}" Foreground="LightGray" FontStyle="Italic"/>
+										</StackPanel>
+									</StackPanel>
+								</Border>
+							</DataTemplate>
+						</ListBox.ItemTemplate>
+					</ListBox>
+				</Border>
+			</Grid>
+		</StackPanel>
+	</Border>
+</UserControl>
+
